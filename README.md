@@ -10,6 +10,7 @@ DOMJudge 대회 결과를 Spotboard 정적 스코어보드로 변환하여 출�
   - `$env:DOMJUDGE_USER = 'reader'`
   - `$env:DOMJUDGE_PASS = '비밀번호'`
   - 설정하지 않은 경우 실행 시 입력을 요청합니다.
+  - DOMJudge의 users -> add user에서 API reader 역할을 지닌 계정을 생성해 사용하여야 합니다.
 - 최초 실행 (Spotboard 웹앱 복사 포함)
   - `python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner --webapp spotboard-webapp`
 - 결과 갱신
