@@ -1,0 +1,196 @@
+{
+ "title": "KGUPC 2026 (Advanced)",
+ "systemName": "DOMjudge",
+ "systemVersion": "",
+ "problems": [
+  {
+   "id": 0,
+   "name": "A",
+   "color": "#7b1fa2",
+   "title": "$O(n^n)$같은 인생, $O(1)$로 바꿔보자 (Large)"
+  },
+  {
+   "id": 1,
+   "name": "B",
+   "color": "#fdd835",
+   "title": "두쫀쿠와 하이에나"
+  },
+  {
+   "id": 2,
+   "name": "C",
+   "color": "#4fc3f7",
+   "title": "하이-테크 편의점"
+  },
+  {
+   "id": 3,
+   "name": "D",
+   "color": "#212121",
+   "title": "격자점 잇기"
+  },
+  {
+   "id": 4,
+   "name": "E",
+   "color": "#e53935",
+   "title": "우리 집 정수기 얼음 나온다 (Large)"
+  },
+  {
+   "id": 5,
+   "name": "F",
+   "color": "#9ccc65",
+   "title": "루프 더 룸"
+  },
+  {
+   "id": 6,
+   "name": "G",
+   "color": "#ffffff",
+   "title": "만화경 곱"
+  },
+  {
+   "id": 7,
+   "name": "H",
+   "color": "#1e3a8a",
+   "title": "홍삼 게임"
+  },
+  {
+   "id": 8,
+   "name": "I",
+   "color": "#d4af37",
+   "title": "나의 짝은 누구일까?"
+  },
+  {
+   "id": 9,
+   "name": "J",
+   "color": "#fb8c00",
+   "title": "운영진과 검수진"
+  },
+  {
+   "id": 10,
+   "name": "K",
+   "color": "#ec407a",
+   "title": "기룡이의 도시락"
+  },
+  {
+   "id": 11,
+   "name": "L",
+   "color": "#2e7d32",
+   "title": "죽음이.. 너희 곁을 췍췍 걷는다..."
+  }
+ ],
+ "teams": [
+  {
+   "id": 1,
+   "name": "a002",
+   "group": ""
+  },
+  {
+   "id": 2,
+   "name": "a003",
+   "group": ""
+  },
+  {
+   "id": 3,
+   "name": "a004",
+   "group": ""
+  },
+  {
+   "id": 4,
+   "name": "a005",
+   "group": ""
+  },
+  {
+   "id": 5,
+   "name": "a006",
+   "group": ""
+  },
+  {
+   "id": 6,
+   "name": "a007",
+   "group": ""
+  },
+  {
+   "id": 7,
+   "name": "a008",
+   "group": ""
+  },
+  {
+   "id": 8,
+   "name": "a009",
+   "group": ""
+  },
+  {
+   "id": 9,
+   "name": "a010",
+   "group": ""
+  },
+  {
+   "id": 10,
+   "name": "a011",
+   "group": ""
+  },
+  {
+   "id": 11,
+   "name": "a012",
+   "group": ""
+  },
+  {
+   "id": 12,
+   "name": "a014",
+   "group": ""
+  },
+  {
+   "id": 13,
+   "name": "a015",
+   "group": ""
+  },
+  {
+   "id": 14,
+   "name": "a016",
+   "group": ""
+  },
+  {
+   "id": 15,
+   "name": "a017",
+   "group": ""
+  },
+  {
+   "id": 16,
+   "name": "a018",
+   "group": ""
+  },
+  {
+   "id": 17,
+   "name": "a019",
+   "group": ""
+  },
+  {
+   "id": 18,
+   "name": "a020",
+   "group": ""
+  },
+  {
+   "id": 19,
+   "name": "a021",
+   "group": ""
+  },
+  {
+   "id": 20,
+   "name": "a023",
+   "group": ""
+  },
+  {
+   "id": 21,
+   "name": "a024",
+   "group": ""
+  },
+  {
+   "id": 22,
+   "name": "a025",
+   "group": ""
+  },
+  {
+   "id": 23,
+   "name": "a027",
+   "group": ""
+  }
+ ]
+}

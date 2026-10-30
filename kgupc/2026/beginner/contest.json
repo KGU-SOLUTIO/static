@@ -1,0 +1,196 @@
+{
+ "title": "KGUPC 2026 (Beginner)",
+ "systemName": "DOMjudge",
+ "systemVersion": "",
+ "problems": [
+  {
+   "id": 0,
+   "name": "A",
+   "color": "#7b1fa2",
+   "title": "$O(n^n)$같은 인생, $O(1)$로 바꿔보자 (Small)"
+  },
+  {
+   "id": 1,
+   "name": "B",
+   "color": "#fdd835",
+   "title": "나는야 71룡01"
+  },
+  {
+   "id": 2,
+   "name": "C",
+   "color": "#4fc3f7",
+   "title": "기룡이는 Hangry해"
+  },
+  {
+   "id": 3,
+   "name": "D",
+   "color": "#212121",
+   "title": "5천 원을 20번 쓰면 10만 원이라고?"
+  },
+  {
+   "id": 4,
+   "name": "E",
+   "color": "#e53935",
+   "title": "저장을 생활화합시다"
+  },
+  {
+   "id": 5,
+   "name": "F",
+   "color": "#9ccc65",
+   "title": "멀티탭 필요해요?"
+  },
+  {
+   "id": 6,
+   "name": "G",
+   "color": "#ffffff",
+   "title": "아 회장님, 한 번만 다시 찍어요"
+  },
+  {
+   "id": 7,
+   "name": "H",
+   "color": "#1e3a8a",
+   "title": "둠스데이 보려면.. 이걸... 다 봐야 돼요...?"
+  },
+  {
+   "id": 8,
+   "name": "I",
+   "color": "#d4af37",
+   "title": "갓생러 기룡이"
+  },
+  {
+   "id": 9,
+   "name": "J",
+   "color": "#fb8c00",
+   "title": "나의 짝은 누구일까?"
+  },
+  {
+   "id": 10,
+   "name": "K",
+   "color": "#ec407a",
+   "title": "우리 집 정수기 얼음 나온다 (Small)"
+  },
+  {
+   "id": 11,
+   "name": "L",
+   "color": "#2e7d32",
+   "title": "두쫀쿠와 하이에나"
+  }
+ ],
+ "teams": [
+  {
+   "id": 1,
+   "name": "b001",
+   "group": ""
+  },
+  {
+   "id": 2,
+   "name": "b002",
+   "group": ""
+  },
+  {
+   "id": 3,
+   "name": "b003",
+   "group": ""
+  },
+  {
+   "id": 4,
+   "name": "b004",
+   "group": ""
+  },
+  {
+   "id": 5,
+   "name": "b005",
+   "group": ""
+  },
+  {
+   "id": 6,
+   "name": "b006",
+   "group": ""
+  },
+  {
+   "id": 7,
+   "name": "b008",
+   "group": ""
+  },
+  {
+   "id": 8,
+   "name": "b009",
+   "group": ""
+  },
+  {
+   "id": 9,
+   "name": "b010",
+   "group": ""
+  },
+  {
+   "id": 10,
+   "name": "b011",
+   "group": ""
+  },
+  {
+   "id": 11,
+   "name": "b012",
+   "group": ""
+  },
+  {
+   "id": 12,
+   "name": "b013",
+   "group": ""
+  },
+  {
+   "id": 13,
+   "name": "b014",
+   "group": ""
+  },
+  {
+   "id": 14,
+   "name": "b015",
+   "group": ""
+  },
+  {
+   "id": 15,
+   "name": "b016",
+   "group": ""
+  },
+  {
+   "id": 16,
+   "name": "b017",
+   "group": ""
+  },
+  {
+   "id": 17,
+   "name": "b018",
+   "group": ""
+  },
+  {
+   "id": 18,
+   "name": "b019",
+   "group": ""
+  },
+  {
+   "id": 19,
+   "name": "b020",
+   "group": ""
+  },
+  {
+   "id": 20,
+   "name": "b021",
+   "group": ""
+  },
+  {
+   "id": 21,
+   "name": "b022",
+   "group": ""
+  },
+  {
+   "id": 22,
+   "name": "b023",
+   "group": ""
+  },
+  {
+   "id": 23,
+   "name": "b024",
+   "group": ""
+  }
+ ]
+}
