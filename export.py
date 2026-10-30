@@ -3,7 +3,7 @@
 사용 예 (Windows PowerShell):
     $env:DOMJUDGE_USER = 'reader'
     $env:DOMJUDGE_PASS = '비밀번호'
-    python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner --webapp spotboard-webapp
+    python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner/scoreboard --webapp spotboard-webapp
 
 - 표준 라이브러리만 사용 (pip 설치 불필요)
 - --webapp: 압축 푼 Spotboard 웹앱 폴더. --out 폴더에 index.html이 없을 때만 복사
@@ -190,7 +190,7 @@ def main():
     ap = argparse.ArgumentParser(description="DOMJudge -> Spotboard 정적 스코어보드")
     ap.add_argument("--url", required=True, help="DOMJudge 주소 (예: http://1.2.3.4)")
     ap.add_argument("--cid", required=True, help="/api/v4/contests 에 나오는 콘테스트 id")
-    ap.add_argument("--out", required=True, help="출력 폴더 (예: kgupc/2026/beginner)")
+    ap.add_argument("--out", required=True, help="출력 폴더 (예: kgupc/2026/beginner/scoreboard)")
     ap.add_argument("--webapp", help="압축 푼 Spotboard 웹앱 폴더 (처음 한 번만 필요)")
     a = ap.parse_args()
 

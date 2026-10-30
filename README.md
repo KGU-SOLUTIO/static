@@ -12,9 +12,9 @@ DOMJudge 대회 결과를 Spotboard 정적 스코어보드로 변환하여 출�
   - 설정하지 않은 경우 실행 시 입력을 요청합니다.
   - DOMJudge의 users -> add user에서 API reader 역할을 지닌 계정을 생성해 사용하여야 합니다.
 - 최초 실행 (Spotboard 웹앱 복사 포함)
-  - `python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner --webapp spotboard-webapp`
+  - `python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner/scoreboard --webapp spotboard-webapp`
 - 결과 갱신
-  - `python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner`
+  - `python export.py --url https://contest.solutio.page --cid KGUPC-2-Beginner-R --out kgupc/2026/beginner/scoreboard`
   - 웹앱이 이미 복사된 경우 `--webapp` 옵션은 생략할 수 있습니다.
 - 옵션
   - `--url`: DOMJudge 서버 주소
